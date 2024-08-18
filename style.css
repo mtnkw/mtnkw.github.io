@@ -20,7 +20,7 @@
 
 /* Aボタン */
 #a_btn{
-    opacity: 0;
+    opacity: 1;
     color: white;           /* 文字色：白 */
     background-color: red;  /* 背景色：赤 */
 }
